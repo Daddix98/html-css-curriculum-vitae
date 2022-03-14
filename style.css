@@ -10,3 +10,15 @@
 .titolo-giallo{
     color:orange;
 }
+.font-titolo{
+    font-family:verdana, arial;
+}
+.font-paragrafi{
+    font-family:'Courier New', Courier, monospace
+    
+}
+
+#footer-finale{
+    text-align: center;
+
+}
